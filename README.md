@@ -154,10 +154,20 @@ API Key Issues: Always ensure your environment variables are properly set
 Memory Usage: Monitor RAM usage when running multiple agents
 Rate Limits: Be aware of API rate limits from different providers
 Conclusion
-Guys, this is just the beginning of what we can do with Phidata. In upcoming videos, we'll explore more complex workflows and integrations. Don't forget to like, share, and subscribe to my channel for more such content!
+Guys, this is just the beginning of what we can do with Phidata. 
 
 Next Steps
 Experiment with different LLM providers
 Add more specialized tools and knowledge bases
 Create industry-specific agents
 Explore advanced monitoring and deployment options
+
+# Snapshots
+
+![image](https://github.com/user-attachments/assets/fc78914f-e769-476c-b569-3e7bdc0d8451)
+![image](https://github.com/user-attachments/assets/61b4d829-4322-4c0d-836a-023bd3fe15d9)
+![image](https://github.com/user-attachments/assets/44c56e02-bcab-4c82-af1c-e4f804a2de3f)
+
+
+
+
