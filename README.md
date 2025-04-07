@@ -165,7 +165,11 @@ Explore advanced monitoring and deployment options
 # Snapshots
 
 ![image](https://github.com/user-attachments/assets/fc78914f-e769-476c-b569-3e7bdc0d8451)
+
+
 ![image](https://github.com/user-attachments/assets/61b4d829-4322-4c0d-836a-023bd3fe15d9)
+
+
 ![image](https://github.com/user-attachments/assets/44c56e02-bcab-4c82-af1c-e4f804a2de3f)
 
 
